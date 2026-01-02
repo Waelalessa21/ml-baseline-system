@@ -8,8 +8,10 @@ Week 3 ML Baseline Project
 ## clone the repo
 ```bash
 git clone https://github.com/Waelalessa21/ml-baseline-system
-cd ml_baseline_system
+cd ml-baseline-system
 ```
+
+
 
 ## Setup
 
