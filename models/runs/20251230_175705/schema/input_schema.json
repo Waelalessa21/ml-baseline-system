@@ -1,0 +1,12 @@
+{
+  "features": {
+    "country": "object",
+    "n_orders": "int64",
+    "total_amount": "float64"
+  },
+  "target": {
+    "name": "is_high_value",
+    "dtype": "int64"
+  },
+  "id_column": "user_id"
+}

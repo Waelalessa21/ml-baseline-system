@@ -1,0 +1,23 @@
+{
+  "run_id": "20251230_175705",
+  "timestamp": "2025-12-30T17:57:05.480062",
+  "target": "is_high_value",
+  "features": [
+    "country",
+    "n_orders",
+    "total_amount"
+  ],
+  "n_train": 80,
+  "n_test": 20,
+  "test_size": 0.2,
+  "random_state": 42,
+  "split_strategy": "random",
+  "model_type": "LogisticRegression",
+  "metrics": {
+    "accuracy": 0.95,
+    "precision": 1.0,
+    "recall": 0.9375,
+    "f1_score": 0.967741935483871,
+    "roc_auc": 1.0
+  }
+}
