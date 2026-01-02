@@ -34,7 +34,6 @@ uv sync
 1. Launch Jupyter Notebook:
 
 ```bash
-uv run jupyter notebook notebook/ml_baseline.ipynb
+uv run python -m notebook notebook/ml_baseline.ipynb
 ```
-
 
