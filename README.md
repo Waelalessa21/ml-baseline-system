@@ -1,9 +1,6 @@
 # ml-baseline-system
 
-Week 3 ML Baseline Project
-
-# Exploratory Data Analysis (EDA) Project
-
+# Week 3 ML Baseline Project
 
 ## clone the repo
 ```bash

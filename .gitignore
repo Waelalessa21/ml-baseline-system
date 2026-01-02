@@ -34,9 +34,6 @@ env/
 *~
 .DS_Store
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*.ipynb
 
 # Model artifacts (keep locally, but don't commit large files)
 # Uncomment if models are very large:
