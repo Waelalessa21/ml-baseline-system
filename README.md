@@ -31,6 +31,6 @@ uv sync
 1. Launch Jupyter Notebook:
 
 ```bash
-uv run python -m notebook notebook/ml_model_project.ipynb
+uv run notebook notebooks/ml_model_project.ipynb
 ```
 
